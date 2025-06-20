@@ -5,13 +5,12 @@
  #       print(i,"even")
 
 
-
+# fggyf
 tuple1 = (1, 2, 3, 4, 5,1)
 for i in tuple1:
     if i % 2 == 0:
        print(i, "even")
     
-
 
 # dict={"name":"aditya","age":23,"branch":"information technology"}
 # for key , value in dict.items():
