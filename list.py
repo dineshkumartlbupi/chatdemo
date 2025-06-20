@@ -5,7 +5,7 @@
  #       print(i,"even")
 
 
-# fggyf
+# fggyflkjdsfh;
 tuple1 = (1, 2, 3, 4, 5,1)
 for i in tuple1:
     if i % 2 == 0:
